@@ -1,0 +1,379 @@
+# A .YAML file is used to export DNS records to a
+# domain managed by Google Cloud. The format is
+# exclusive to Google Cloud DNS.
+
+---
+kind: dns#resourceRecordSet
+name: 'rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: '50.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: '50dailygoals.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'alarms.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'arabic.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'asma.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'bengali.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'blog.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'caddy.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'calculator.rontohub.com.'
+rrdatas:
+- 'ikbhal.github.io.'
+ttl: 3600
+type: CNAME
+---
+kind: dns#resourceRecordSet
+name: 'chat.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'commands.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'contacts.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'courses.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'deploy.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'diploma.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'domains.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'drive.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'git.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'graph.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'gujarati.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'is.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'kannada.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'list.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'loans.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'malayalam.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'notes.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'npmnode.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'pm2.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'polytechnic.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'polytechniccollege.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'pomodoro.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'redis.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'salma.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'school.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'shell.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'sql.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'stopwatch.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'store.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'subdomain.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'tamil.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'telugu.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'timers.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'todo.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'tutorials.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'unemployment.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'university.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'urdu.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'voice.rontohub.com.'
+rrdatas:
+- '34.100.249.126'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'rontohub.com.'
+rrdatas:
+- '1 aspmx.l.google.com.'
+- '5 alt1.aspmx.l.google.com.'
+- '5 alt2.aspmx.l.google.com.'
+- '10 alt3.aspmx.l.google.com.'
+- '10 alt4.aspmx.l.google.com.'
+ttl: 3600
+type: MX
+---
+kind: dns#resourceRecordSet
+name: 'rontohub.com.'
+rrdatas:
+- '"v=spf1 include:_spf.google.com ~all"'
+ttl: 3600
+type: SPF
+---
+kind: dns#resourceRecordSet
+name: 'rontohub.com.'
+rrdatas:
+- '"v=spf1 include:_spf.google.com ~all"'
+ttl: 3600
+type: TXT
+---
+kind: dns#resourceRecordSet
+name: 'google._domainkey.rontohub.com.'
+rrdatas:
+- '"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiiPEGqd6hJNpjEGXsfHKNMVGb5+9UKhZD7A/t5/Q/fFz+xAx2QWlYg1oEGgPbrY3OM9zWufUrhFDO73NIcR/hRhAYF0NkEVsa4i1RXx8zOonWdhvMao+y1/sx5GLUu63g6Ym9Ocjap+W7u08te4uHtMeiByQ9SLgdmWLb2xcwVv0ChFDQBzNyN/xZwv3oVt3/" "W/uJzIACgTw+wKDttVO0LGHUBJTd6c9OndRhBDU5UxE15EM010USbwRDivcJvb2+Z/9Qhagv1KbyiqNxKe23N4xwftstuXM1gHyVzUVFSFUAZ2L9W7bKTRTQS/5FXWbf5TjIxxU55MKrvjZoevsqQIDAQAB"'
+ttl: 3600
+type: TXT
